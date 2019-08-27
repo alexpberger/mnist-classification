@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566908241243.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2736633269",
+    "id" : "40A292A1",
+    "lastKnownWriteTime" : 1566908288,
+    "last_content_update" : 1566908288321,
+    "path" : "~/Dropbox/Alex - My Folder/05 - R-Projects/TheMNISTProject/functions.R",
+    "project_path" : "functions.R",
+    "properties" : {
+        "cursorPosition" : "2,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
